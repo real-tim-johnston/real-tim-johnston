@@ -42,6 +42,18 @@ Projects cover:
 - OSINT investigations and reporting
 
 ---
+## Projects
+
+| Repository | Description |
+|---|---|
+| [MegaQuagga Pentest Engagement](https://github.com/real-tim-johnston/megaquagga-pentest-report) | Complete offensive engagement — vulnerability assessment, exploitation, remediation, and PCAP evidence |
+| [Incident Response Plan](https://github.com/real-tim-johnston/incident-response-plan) | NIST-based IRP with malware, phishing, and DoS playbooks |
+| [Cerber Ransomware Triage](https://github.com/real-tim-johnston/cerber-ransomware-triage) | Live IR triage report with MITRE ATT&CK mapping and IOC analysis |
+| [Xibalba Threat Model](https://github.com/real-tim-johnston/xibalba-threat-model) | Threat model, honeypot strategy, and MITRE-based security roadmap |
+| [Yage Network Modernization](https://github.com/real-tim-johnston/yage-network-modernization) | Strategic network modernization and cloud migration proposal |
+| [Wazuh SIEM Lab](https://github.com/real-tim-johnston/wazuh-siem-lab) | SIEM enhancement — Atomic Red Team detection, Nmap analysis, EICAR validation |
+
+---
 
 ## Certifications
 
