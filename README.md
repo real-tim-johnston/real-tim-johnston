@@ -60,4 +60,4 @@ I'm actively looking for fully remote SOC Analyst opportunities. If my work here
 
 ---
 
-*"The best defenders understand how attackers think. I've spent my career thinking like both."*## Hi there 👋
+*"The best defenders understand how attackers think. I've spent my career thinking like both."
